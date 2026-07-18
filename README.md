@@ -10,4 +10,5 @@ The modelling operates on a nanosecond (ns) timescale, evaluating amplitude in m
 
 # Results
 <img width="640" height="480" alt="SiPM pulse" src="https://github.com/user-attachments/assets/aa74102a-5e67-42b0-90a3-592bce5e3b0a" />
+
 An example fit
