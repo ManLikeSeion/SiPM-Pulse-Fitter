@@ -8,6 +8,6 @@ To run the notebook, the following Python libraries are required:  numpy  scipy 
 # Technical Details
 The modelling operates on a nanosecond (ns) timescale, evaluating amplitude in millivolts (mV) to mimic realistic hardware outputs. The default configuration features a 2.0 ns rise time, a 150.0 ns decay time, and an equivalent dark count rate of 2 MHz.  
 
-#Results
+# Results
 An example fit
 <img width="640" height="480" alt="SiPM pulse" src="https://github.com/user-attachments/assets/aa74102a-5e67-42b0-90a3-592bce5e3b0a" />
